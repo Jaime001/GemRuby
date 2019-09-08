@@ -5,7 +5,7 @@ First we need to know what is a gem in Ruby, how works, and finally how create a
 
 A ***Ruby gem*** is like a library for Ruby and it could be installed in the system and after that, it's ready to being used inside of your ruby projects.
 
-### What contains a gem?
+### Which elements are in a gem?
 
 * .gemspec
 * /lib
