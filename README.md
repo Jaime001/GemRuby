@@ -36,12 +36,12 @@ A ***Ruby gem*** is like a library for Ruby and it could be installed in the sys
 Documentation and downloads: https://bundler.io
 
 ### How install bundler?
-Yo can start installing it with: ***bundle install.***
+Yo can start installing it in a console with: ***bundle install.***
 If we have Bundler already installed in our PC, we can create a gem in this steps;
 > 1. Open your console and go to the directory that you want the gem.
  
 > 2. Write this: bundle gem |Name|.
 
-Next, automatically the gem will be created in the directory.
+Next, automatically the gem and its files will be created in the directory.
   
 ## The gem are ready to be used.
